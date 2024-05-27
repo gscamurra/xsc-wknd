@@ -313,8 +313,8 @@ header nav .nav-tools form select {
   display: inline-block;
   position: relative;
   font-size: var(--body-font-size-xxs);
-  color: var(--highlight-background-color);
-  background: var(--background-color-transparent);
+  /*color: var(--highlight-background-color);
+  background: var(--background-color-transparent);*/
   width: 100px;
   height: inherit;
   padding: 3px 0;
