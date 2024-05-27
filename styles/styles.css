@@ -379,5 +379,5 @@ body.noscroll {
 
 .col-text-on-image > div
 {
-  border-bottom: 0px;
+  border-bottom: 0px !important;
 }
