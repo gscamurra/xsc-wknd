@@ -368,7 +368,9 @@ body.noscroll {
 
 .col-text-on-image p strong {
   font-size: 30px;
-  text-align: center;
+    text-align: center;
+    padding-top: 16px;
+    display: block;
 }
 
 .col-text-on-image p {
