@@ -391,7 +391,7 @@ body.noscroll {
 .text-on-image > div {
   height: auto !important;
   text-align: center;
-  background: (238 238 238 / 46%);
+  background: #f7fafb;
   padding: 10px;
 }
 
