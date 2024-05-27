@@ -381,3 +381,9 @@ body.noscroll {
 {
   border-bottom: 0px !important;
 }
+
+@media (max-width: 900px) {
+  .col-text-on-image  {
+    height: auto;
+  }
+}
