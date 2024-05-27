@@ -377,7 +377,7 @@ body.noscroll {
   text-align: center;
 }
 
-.col-text-on-image > div
+.col-text-on-image > div, .text-on-image > div 
 {
   border-bottom: 0px !important;
 }
