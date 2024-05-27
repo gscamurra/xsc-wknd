@@ -387,3 +387,7 @@ body.noscroll {
     height: auto !important;
   }
 }
+
+.text-on-image > div {
+  height: auto !important;
+}
