@@ -385,6 +385,7 @@ body.noscroll {
 @media (max-width: 900px) {
   .col-text-on-image > div  {
     height: auto !important;
+    text-align: center;
   }
 }
 
