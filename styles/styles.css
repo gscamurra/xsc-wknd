@@ -363,3 +363,9 @@ main .section.highlight {
 body.noscroll {
   overflow: hidden;
 }
+
+/* custom css*/
+
+.col-text-on-image p strong {
+  font-size: 30px;
+}
