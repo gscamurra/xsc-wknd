@@ -392,3 +392,8 @@ body.noscroll {
   height: auto !important;
   text-align: center;
 }
+
+.text-on-image > div h1 {
+  font-size: 30px;
+  text-shadow: none;
+}
